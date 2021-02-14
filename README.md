@@ -14,8 +14,8 @@ Below is a list of major findings based on the analysis:
 ## Summary:
 1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-Based on criteria based on age and hire date, a total of 90,398 employees will be start planning for retirement. Over the next few years, the company should started planning to fill these positions to allow for smooth transfer of knowledge.
+* Based on criteria based on age and hire date, a total of 90,398 employees will be start planning for retirement. Over the next few years, the company should started planning to   fill these positions to allow for smooth transfer of knowledge.
   
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-Based on the mentorship criteria, there are not enough mentors. The ratio of mentors to retiring employees is 56:1. The company should consider relaxing the mentorship-eligible employees to allow for smoother transition. 
+* Based on the mentorship criteria, there are not enough mentors. The ratio of mentors to retiring employees is 56:1. The company should consider relaxing the mentorship-eligible   employees to allow for smoother transition. 
